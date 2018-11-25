@@ -1,0 +1,181 @@
+.section.section--swiper.section--livemusic .section__heading h1,
+.section.section--swiper.section--livemusic p {
+	color: #7F413D
+}
+
+.booking-wizard .nav-tabs li a[href='#cocktailcuppascakes'],
+.booking-wizard .nav-tabs li a[href='#cocktailcuppascakes']:active,
+.booking-wizard .nav-tabs li a[href='#cocktailcuppascakes']:focus {
+	background: #7F413D
+}
+
+.booking-wizard #cocktailcuppascakes.tab-pane {
+	background-color: #7F413D
+}
+
+.booking-wizard #cocktailcuppascakes .booking-header-image:after {
+	background-image: -webkit-linear-gradient(top, transparent 0, #7F413D 100%);
+	background-image: -o-linear-gradient(top, transparent 0, #7F413D 100%);
+	background-image: linear-gradient(to bottom, transparent 0, #7F413D 100%);
+	background-repeat: repeat-x
+}
+
+.section.section--hero:after {
+	background-image: linear-gradient(to bottom, transparent 0, #7F413D 100%)
+}
+
+.section.section--swiper#section-everysunday .swiper-ccontainer .swiper-slide,
+.section.section--swiper.section--livemusic .btn {
+	background: #7F413D
+}
+
+.section.section--swiper#section-everysunday .swiper-ccontainer .swiper-slide .slide-bg:after,
+.section.section--swiper#section-everysunday .swiper-ccontainer .swiper-slide .slide-bg:before,
+.section.section--swiper#section-everysunday:before {
+	visibility: hidden
+}
+
+.section.section--swiper.section--everysunday:after {
+	background-image: url(..images/cocktailcuppas_icon.png)
+}
+
+.section.section--swiper#section-everysunday {
+	z-index: 3
+}
+
+.section.section--swiper.section--livemusic {
+	padding-top: 30px
+}
+
+i.booking-icon.icon-cocktailcuppascakes {
+	background: url(../images/cocktailcuppas_icon.png) 0;
+	width: 57px;
+	background-size: 100%
+}
+
+.page-template-template-events .event-artwork img.img-responsive {
+	/*max-height: 360px;min-height: 360px;*/
+}
+
+.pagination li.previous,
+.pagination li.next {
+	display: none;
+}
+
+.section--gallery {
+	background-size: 348px 323.5px !important;
+}
+
+@media (min-width: 770px) and (max-width: 1000px) {
+	.event .event-date {
+		min-height: 40px;
+	}
+}
+
+html body.page-id-773 .page-wrapper {
+	min-height: auto;
+}
+
+p.aligncenter {
+	text-align: center;
+}
+
+#tripleseat_embed_form table td {
+	text-align: left;
+}
+
+@media (min-width: 1000px) {
+	div#tripleseat_embed_form {
+		margin-top: -200px;
+	}
+}
+
+@media (min-width: 770px) and (max-width: 1000px) {
+	div#tripleseat_embed_form {
+		margin-top: -150px;
+	}
+}
+
+#tripleseat_embed_form .row_email_opt_out label,
+#tripleseat_embed_form .row_gdpr_consent label {
+	padding-left: 10px;
+}
+
+#tripleseat_embed_form label {
+	color: #fff;
+}
+
+#tripleseat_embed_form input,
+#tripleseat_embed_form textarea {
+	color: #000;
+}
+
+#tripleseat_embed_form input:not([type="checkbox"]),
+#tripleseat_embed_form textarea {
+	width: 100% !important;
+	height: 40px;
+	padding: 10px 20px;
+	font-family: 'P22JohnstonUndergroundW_945065';
+}
+
+#tripleseat_embed_form #lead_submit {
+	transition: all 0.3s ease;
+	background: #482623;
+	color: #ded7d0;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 25px !important;
+	line-height: 1;
+	min-height: 60px;
+}
+
+#tripleseat_embed_form #lead_submit:hover {
+	color: #482623;
+	background: #ded7d0;
+}
+
+#tripleseat_embed_form label {
+	font-family: 'P22JohnstonUndergroundW_945068', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 17px;
+}
+
+#tripleseat_embed_form h2 {
+	font-family: 'P22JohnstonUndergroundW_945065';
+	text-transform: uppercase;
+	color: #fff;
+}
+
+@media (max-width: 414px) {
+	#tripleseat_embed_form .row_email_opt_out label,
+	#tripleseat_embed_form .row_gdpr_consent label {
+		max-width: 320px;
+	}
+}
+
+
+body.page-template-christmas-index .block {
+	border-radius: unset;
+	box-shadow: none;
+}
+
+
+body.page-template-christmas-index .section.section--christmas-cream.section--bg_two {
+
+	background-size: cover;
+}
+
+body.page-template-christmas-book .booking-wizard .nav-tabs a[href='#cocktailcuppasandcakes'],
+body.page-template-christmas-book .booking-wizard .nav-tabs a[href='#cocktailcuppasandcakes']:active,
+body.page-template-christmas-book .booking-wizard .nav-tabs a[href='#cocktailcuppasandcakes']:focus {
+	background: #8eac47;
+	color: #ded7d0;
+}
+
+body.page-template-christmas-book .booking-wizard .tab-pane#cocktailcuppasandcakes.tab-pane {
+	background: #8eac47;
+}
+
+body.page-template-christmas-book .booking-wizard .booking-icon.icon-cocktailcuppasandcakes {
+	background-image: url(img/cocktailcuppas_icon.png);
+	width: 53px;
+}
