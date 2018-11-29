@@ -18,6 +18,13 @@
 body.login {
     background-color: #000
 }
+h1,
+a
+{
+    
+ font-family: 'Yeseva One', cursive !important;
+     color: #ffffff;
+}
 
 body.login h1 a {
     background-image: url(../img/global-footer-logo.png);
