@@ -8103,7 +8103,7 @@ button.close {
     nav.navbar-default .navbar-nav li a {
         text-transform: uppercase;
         font-weight: 700;
-        font-family: 'Gill Sans W01 Cond';
+         font-family: sans-serif;;
         font-size: 28px
     }
     nav.navbar-default .navbar-nav li a,
