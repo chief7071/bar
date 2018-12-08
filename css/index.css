@@ -8419,7 +8419,7 @@ button.close {
         width: 120%;
         display: block;
         bottom: -30px;
-     
+        background-image:url(../img/vkys.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: -125px;
