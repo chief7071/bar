@@ -4956,14 +4956,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     left: 0;
     z-index: 1030
 }
-@media (min-width:500px) {
-.navbar-brand {
-    float: left;
-    padding: 30px 15px;
-    font-size: 18px;
-    line-height: 20px;
-    height: 71px
-}
+
 @media (min-width:1199px) {
     .navbar-fixed-bottom,
     .navbar-fixed-top {
@@ -4987,7 +4980,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     padding: 30px 15px;
     font-size: 18px;
     line-height: 20px;
-    height: 80px
+    height: 71px
 }
 
 .navbar-brand:focus,
