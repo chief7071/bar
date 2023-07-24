@@ -1,14 +1,14 @@
 [{
         "id": "1",
-        "title": "Бизнес ланч",
+        "title": "Бізнес ланч",
         "image": "business1.JPG",
-        "description": "Бизнес ланч + суп",
+        "description": "Бізнес ланч + суп",
         "price": 150
     },
     
     {
         "id": "2",
-        "title": "Ананасовый сок",
+        "title": "Ананасовий сік",
         "image": "kola.jpg",
         "description": "250 мл.",
         "price": 35
@@ -16,9 +16,9 @@
      
   {
         "id": "3",
-        "title": "Бизнес ланч",
+        "title": "Бізнес ланч",
         "image": "business2.JPG",
-        "description": "Бизнес ланч",
+        "description": "Бізнес ланч",
         "price": 130
     }
     ]
